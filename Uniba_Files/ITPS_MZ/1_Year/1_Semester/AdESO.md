@@ -23,16 +23,14 @@
 # <font color="Cyan">INTRO</font> [^1]
 
 
-```ad-seealso
-title: ## ***<font color="#F62817">Come è fatto un elaboratore:***
+
+## ***<font color="#F62817">Come è fatto un elaboratore:***
 
 1. ##### Componenti fondamentali costituenti un elaboratore e loro organizzazione
-<br>
 
 2. ##### Come funziona un elaboratore?
 (meccanismi alla base dell’elaborazione automatica)
 
-```
 <br>
 
 # <font color="Cyan">CONCETTI BASE</font> [^2]
@@ -61,10 +59,9 @@ La descrizione della procedura deve contenere:
 2. l’insieme di azioni da compiere (***istruzioni***) 
 3. La specifica dei ***controlli*** che determinano l’ordine con cui eseguire le azioni. 
 
-```ad-danger
-title: NOTA BENE:
+## NOTA BENE:
 Dati, istruzioni e controlli sono 3 termini usati spesso avanti.
-```
+
 <br>
 
 
@@ -100,44 +97,32 @@ tempo finito.
 È composto da:  
 
 
-```ad-todo
-title: Software Applicativo: 
+## Software Applicativo: 
 collapse: open
 Insieme di programmi che permettono di svolgere compiti specifici (app).
-```
 
-```ad-todo
-title: Software di Base:
+
+## Software di Base:
 collapse: open
 Programmi di gestione del sistema (Sistema operativo).  
-``` 
 
- ```ad-todo
- title: Firmware
+
+## Firmware
  collapse: open
  Software codificato in hardware, “embedded”, immagazzinato all’interno dell’hardware stesso (non accessibile).
-```
+
 <br>
 
-`````ad-attention
-title: NOTA BENE:
-collapse: open
- 
-
-````ad-quote
-title: <font color="FF6700">In Architettura degli elaboratori sono logicamente equivalenti:</font>
+## NOTA BENE:
+# <font color="FF6700">In Architettura degli elaboratori sono logicamente equivalenti:</font>
 1. Ogni operazione eseguita dall’hardware può essere simulata dal software.  
 
 2. Ogni operazione eseguita dal software può essere realizzata dall’hardware.
-````
-````ad-note
-collapse: close
-La decisione di realizzare alcune funzioni in HW e altre in SW è solo basata su fattori quali costo, velocità, affidabilità, frequenza di modifiche.  
-```
+
+## La decisione di realizzare alcune funzioni in HW e altre in SW è solo basata su fattori quali costo, velocità, affidabilità, frequenza di modifiche.  
+
 > L’esecuzione di qualcosa in hardware è più veloce di una in software. Ma l’hardware costa di più e non è facile modificarlo, mentre un software si aggiorna periodicamente.
-```
-````
-`````
+
 
 
 
