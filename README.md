@@ -29,7 +29,7 @@ The repository is structured by year and course, providing materials and resourc
 
   ### **Semester 2**
   - Software Engineering  
-    Physics for Computer Science  
+  - Physics for Computer Science  
   - Numerical Methods & Calculation  
   - Business Management and Economics  
 
