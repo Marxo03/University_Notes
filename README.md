@@ -1,4 +1,4 @@
-# University Notes Repository
+# University Notes
 
 Welcome to my University Notes repository. This space is dedicated to organizing and sharing the notes I've taken throughout my academic journey in **Computer Science and Software Production Technologies** at the **University of Bari Aldo Moro**.
 
